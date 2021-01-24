@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 Currently I ...
 - 📚 Am a Masters student in Global Innnovation Design at the RCA / ICL
 - ✍️ Freelance and [make art](https://instagram.com/mngyuan)
-- 🎮 Am developing a [game](https://github.com/mngyuan/driftwinds) for TIC-80. Come join me!
+- 🎮 Think about games
 
 Recently I ...
 - Launched 3 apps! Including my very first one 🎉
