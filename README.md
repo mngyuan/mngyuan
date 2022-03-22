@@ -15,21 +15,22 @@ Here are some ideas to get you started:
 
 [![1000th visitor notification](http://atom.smasher.org/error/98.png.php?icon=disk_blu_lbl&style=98&title=You%27ve+Won%21&url=&text=Congratulations%21+You%27re+the+1000th+visitor%0D%0Ato+my+Github+profile%21+Click+to+claim+your+reward%21&b1=&b2=OK&b3=)](http://mngyuan.com)
 
-<details>
-  <summary>
-
-  </summary>
+Previously I ...
+- Worked at [@meta](https://github.com/facebook/) (then @facebook)
+- Left to start a one man design studio / digital agency
+- Studied at [@ucberkeley](https://github.com/ucberkeley)
 
 Currently I ...
 - 📚 Am a Masters student in Global Innnovation Design at the RCA / ICL
 - ✍️ Freelance and [make art](https://instagram.com/mngyuan)
-- 🎮 Think about games
 
 Recently I ...
-- Launched 3 apps! Including my very first one 🎉
+- Exhibited my [GPT3 powered AI interactive art piece](https://wip2022.rca.ac.uk/students/kevin-lee) in Brooklyn
+- Was an exhibitor at [Tokyo Art Book Fair](https://online.tokyoartbookfair.com/exhibitors/9731/) at the [Museum of Contemporary Art Tokyo](https://www.mot-art-museum.jp/en/exhibitions/tokyo-art-book-fair-2021/)
+- Completed a co-design project in Thailand sponsored by UNESCO Japan
+- Launched my first sole developed app 🎉
   - 📱 RoR2 Handbook on [App Store](https://apps.apple.com/us/app/ror2-handbook/id1528143765) / [Google Play](https://play.google.com/store/apps/details?id=com.ror2handbook)
-  - 📱 [FastAF](https://apps.apple.com/us/app/id1522566916)
-  - 📱 [Pludo](https://apps.apple.com/us/app/pludo/id1517339982)
-
- </details>
  
+
+
+[Dribbble](https://dribbble.com/mngyuan) | [Instagram](https://instagram.com/mngyuan/) | [Personal site](https://mngyuan.com/)
