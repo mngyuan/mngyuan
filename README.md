@@ -13,19 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![1000th visitor notification](http://atom.smasher.org/error/98.png.php?icon=disk_blu_lbl&style=98&title=You%27ve+Won%21&url=&text=Congratulations%21+You%27re+the+1000th+visitor%0D%0Ato+my+Github+profile%21+Click+to+claim+your+reward%21&b1=&b2=OK&b3=)](http://mngyuan.com)
+
+[![夢](https://github.com/mngyuan/mngyuan/assets/3166481/44e7b34c-a8fd-4973-8b33-6ef2a6bcab1d)](http://mngyuan.com)
 
 Previously I ...
+- Got an MSc/MA from Imperial College London / Royal College of Art in Design
 - Worked at [@meta](https://github.com/facebook/) (then @facebook)
 - Left to start a one man design studio / digital agency
 - Studied at [@ucberkeley](https://github.com/ucberkeley)
 
 Currently I ...
-- 📚 Am a Masters student in Global Innnovation Design at the RCA / ICL
+- 📚 Lecture at the [Creative Computing Institute](https://github.com/ual-cci) at University of the Arts London
+- 👨🏻‍🏫 Teach creative coding at the Royal College of Art
 - ✍️ Freelance and [make art](https://instagram.com/mngyuan)
 
 Recently I ...
-- Exhibited my [GPT3 powered AI interactive art piece](https://wip2022.rca.ac.uk/students/kevin-lee) in Brooklyn
+- Exhibited my [GPT powered AI interactive art piece](https://wip2022.rca.ac.uk/students/kevin-lee) in Brooklyn
 - Was an exhibitor at [Tokyo Art Book Fair](https://online.tokyoartbookfair.com/exhibitors/9731/) at the [Museum of Contemporary Art Tokyo](https://www.mot-art-museum.jp/en/exhibitions/tokyo-art-book-fair-2021/)
 - Completed a co-design project in Thailand sponsored by UNESCO Japan
 - Launched my first sole developed app 🎉
